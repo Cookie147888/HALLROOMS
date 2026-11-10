@@ -12,7 +12,8 @@ Share the game to 1 or 2 friends pls.
 
 ## 🎥 Tutorial
 
-Learn how to play HALLROOMS! [▶ Watch / Download Tutorial](https://github.com/Cookie147888/HALLROOMS/releases/tag/Tutorial)
+Learn how to play HALLROOMS!
+[▶ Watch / Download Tutorial](https://github.com/Cookie147888/HALLROOMS/releases/tag/Tutorial)
 
 ## 💻 Admin Menu
 if you wamt to set your money to 999999 in the next version, look in the channel and say it, text your uuid in the answer to my question and i mby give U the Menu in the next version. Good luck and have a very, very nice day
